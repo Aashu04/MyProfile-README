@@ -14,6 +14,6 @@ real-time analytics on **Azure Data Factory, Azure Databricks, PySpark, and SQL*
 - SQL scripts for data modeling and reporting
 - Real-world case studies (Patching, Insurance, etc.)
 
-📫 Reach me on [LinkedIn](https://linkedin.com/in/your-link) | [Email](mailto:you@example.com)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/amit-sanwal/) | [Email](mailto:amitsanwal20@gmail.com)
 
 ---
